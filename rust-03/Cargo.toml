@@ -8,10 +8,10 @@ edition = "2021"
 [dependencies]
 
 [[bin]]
-name = "main1"
+name = "part1"
 path = "src/main.rs"
 
 [[bin]]
-name = "main2"
+name = "part2"
 path = "src/main2.rs"
 
